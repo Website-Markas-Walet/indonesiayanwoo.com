@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /cms/
+Disallow: /*.md$
+
+Sitemap: https://indonesiayanwoo.com/sitemap_index.xml
